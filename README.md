@@ -1,7 +1,7 @@
-# 2022 Korea Code Fair [ KRONOS ]
 
-<h1 align="center">Flood-GPS-navigation-system</h1>
+<h1 align="center">2022 Korea Code Fair [ KRONOS ]</h1>
 <h1 align="center">차량 침수피해를 예방하는 길찾기 서비스</h1>
+
 
 
 ## Service INFO
