@@ -27,3 +27,17 @@ To prevent this, the Meteorological Agency API was combined. The service has bee
 
 
 ## Service Capture
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/2a410da9-dc63-44e5-804c-2a9fb16ba226/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230102%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230102T200216Z&X-Amz-Expires=86400&X-Amz-Signature=fea9fdd9720065022b62547b5cb2f6b3706279113ea6083e349cf4f540900ee5&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject"></img>
+
+<img src="해커톤 본선 영상 1.gif"></img>
+
+## Flood Avoidance Technology
+<img src="https://s3.us-west-2.amazonaws.com/secure.notion-static.com/7ad17e16-f6c1-4cac-b81b-4a6a2af5154c/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20230102%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20230102T201033Z&X-Amz-Expires=86400&X-Amz-Signature=197735a59fd88019512ee1c844e4db5d2b43a6dab18d7d8574ddb7569f45f923&X-Amz-SignedHeaders=host&response-content-disposition=filename%3D%22Untitled.png%22&x-id=GetObject"></img>
+
+Point at coordinates where flooding occurs repeatedly and periodically. 
+Draw a circle with a diameter over a certain distance, focusing on that point. 
+After drawing a straight line that becomes the tangent of the circle, the road there is designated as an alternative route..
+
+1. 반복적이고 주기적으로 침수가 발생하는 곳의 좌표를 기준으로 점을 찍는다. 
+2. 그 점을 중심으로 일정 거리의 지름이 있는 원을 그립니다. 
+3. 원의 접선이 되는 직선을 그은 후, 접선 주변의 도로를 대체 경로로 지정합니다. 
